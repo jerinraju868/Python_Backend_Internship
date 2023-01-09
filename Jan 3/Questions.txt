@@ -1,0 +1,15 @@
+write a program to print sum of 2 numbers and display it
+write a program to find difference of 2 numbers
+write a program to swap 2 numbers 
+write a program to find the factorial of a number
+find the largest of 2 numbers 
+check the given number is even or not 
+check the given number is amstrong or not
+check the given number is palindrome or not 
+check the given number is prime or not
+find the reverse of a given number
+remove multiple elements from a list in python
+what is the difference between list and tuples in python
+write a program to print the fibonacci series using recursive method
+pyhon program to convert lowercase char to uppercase of string
+python program to delete vowels in a given string

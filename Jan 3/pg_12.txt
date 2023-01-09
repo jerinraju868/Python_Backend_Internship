@@ -1,0 +1,30 @@
+''' what is the difference between list and tuples in python '''
+
+list
+    used to store multiple items in single variable 
+    it is mutable, ie, we can change the values
+    size is greater than tuple 
+    slower as we compare with tuple
+
+    add element in end 
+        list_name.append(item)
+    
+    add element at any place 
+        list_name.insert[index, item]
+    
+    add multiple elements
+        list_name.extend([item1, item2, item3,..])
+    
+    remove element
+        list_name.pop(value)
+    
+    remove multiple element
+        del list_name[index]
+
+tuples
+    parathesis is used to represent the tuples 
+    eg: tuple()
+    collection of ordered and immutable elements
+    once the tuple is decleared, then the elements are not changable 
+    less size as we compare with list
+    faster than list
