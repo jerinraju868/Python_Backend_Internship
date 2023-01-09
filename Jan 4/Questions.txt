@@ -1,0 +1,10 @@
+Python Program to Convert Decimal Number into Binary
+Python Program to convert Decimal number to Octal number
+Python program to remove given character from String
+Python program to check given character is digit or not
+Python program to replace the string space with a given character
+Python program to print the highest frequency character in a String
+Python program to separate characters in a given string
+Python program to remove blank space from string
+Python Program to sort characters of string in ascending order
+Write a program in Python to find largest and smallest number in array
