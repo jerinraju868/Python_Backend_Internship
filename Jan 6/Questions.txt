@@ -1,0 +1,28 @@
+Write a program for printing pyramid patterns in python	"
+                    * 
+                    * * 
+                    * * * 
+                    * * * * 
+                    * * * * *
+Write a python program to print current year, month and day	
+write a program to  check if element exists in list in Python	
+write a python program to capitalize the first and last character of each word in a string	
+Write a python program to find the sum of all items in a dictionary
+	Input : {‘a’: 100, ‘b’:200, ‘c’:300}
+write a python program to find the difference between two lists	
+    list1 = [10, 15, 20, 25, 30, 35, 40]
+    list2 = [25, 40, 35] 
+write a python program to interchange first and last elements in a list	
+    Example    Input : [1, 2, 3]
+    Example    Output : [3, 2, 1]
+write a python program to reverse words in a given String in Python	
+    Input : str = ""my name is laxmi
+    output : str= laxmi is name my "
+write a python program to print to print half Diamond star pattern	
+    Input: N = 3
+    Output:
+            *
+            **
+            ***
+            **
+            *
