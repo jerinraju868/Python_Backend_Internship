@@ -1,0 +1,18 @@
+Write a Python program to remove duplicates from a list​
+
+Swap two tuples in Python​
+    tuple1 = (11, 22)
+    tuple2 = (99, 88)​
+
+​Write a python program to sort dictionary by values (Ascending/ Descending).​
+
+Write a Python program to print the numbers of a specified list after removing even numbers from it.​(use list comprehension)
+    list = [7,8, 120, 25, 44, 20, 27]​
+
+Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same from a given list of strings.​
+    Sample List : ['abc', 'xyz', 'aba', '1221']​
+
+​
+Write a Python program to convert list to list of dictionaries.​
+    Sample lists: ["Black", "Red", "Maroon", "Yellow"], ["#000000", "#FF0000", "#800000", "#FFFF00"]​
+    Expected Output: [{'color_name': 'Black', 'color_code': '#000000'}, {'color_name': 'Red', 'color_code': '#FF0000'}, {'color_name': 'Maroon', 'color_code': '#800000'}, {'color_name': 'Yellow', 'color_code': '#FFFF00'}]​
