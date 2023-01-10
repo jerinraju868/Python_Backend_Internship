@@ -1,0 +1,45 @@
+Python Program to replicate bank transaction: min balance 500, ask user to the amount to withdraw, 
+    print the balance amount after withdrawal, if user enters an amount greater than balance: print:: insufficient balance. 
+    if balance is below 500 print an alert message : your account balance is "available_balance", Please  keep your account balance above Rs.500 to avoid unwanted charges.
+    
+Print the greatest of the 3 numbers taken as input, print equal if all three numbers are the same
+
+Python program to check the number taken as an input is even or odd,print invalide input if user enters anything other than integers
+
+Python program to check the score from a student ,print grades as A+ if score >= 90,A if 80 or above, B+ if 70 or above and so on...  
+    print failed if the score is below 50, if score > 100 print invalid
+
+Python program to print all even/odd numbers in the range given by user
+
+Python program to print the multiplication table of any number (number should be taken as input and user decides the end limit of the table)
+
+Find the factorial of a number taken as input using for loop
+
+Find the factorial of a number taken as input using while loop
+
+Find the sum of all even numbers between the range given by user
+
+Find the sum of all odd numbers between the rane given by user using while loop
+
+Print first 10 fibonacci numbers using 'for' and 'while' loops 
+
+print the following patterns
+            *
+           * *
+          * * *
+         * * * *
+
+        o
+		1 2
+		3 4 5
+		6 7 8 9
+
+        o
+		1 1
+		2 2 2
+		3 3 3 3
+
+        *
+		* *
+		* * *
+		* * * *
