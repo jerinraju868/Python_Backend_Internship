@@ -1,0 +1,7 @@
+1. Write a Python program to calculate the length of a string
+2. Print even length words in a string.
+    Sample String : ''I love  coding"
+    ExpectedResult : “love, coding”
+3. Write a Python code to remove all characters except a specified character in a given string
+    Sample String : 'exercises'
+    ExpectedResult : 'eee' (Removed  all characters except special character : e)
