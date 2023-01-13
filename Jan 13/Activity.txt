@@ -1,0 +1,10 @@
+1. Create a text file “intro.txt” in python and ask the user to write a single line of text by user input
+
+2. Create a text file “MyFile.txt” in python and ask the user to write separate 3 lines with three input statements from the user.
+
+3. Write a program to read the contents of both the files created in the above programs and merge the contents into “merge.txt”.
+   Avoid using the close() function to close the files ?
+
+4. Append the contents in entered by the user in the intro.txt file ?
+
+5. Read the contents of intro.txt file in reverse order
