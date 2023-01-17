@@ -1,0 +1,7 @@
+1.Write a Python class named Student with school_name as class variable, and name, id as instance variables.
+    And create two objects student_1, student_2
+    Assign name and id values to the objects using constructor..
+    Print all the attributes of student1, student2 objects by using another instance method called display_student. 
+
+2.Extend the above program and add a score variable as an instance variable. Create a static method named average_score.
+    And call the method with list of created objects to find the average score.
