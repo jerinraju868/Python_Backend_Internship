@@ -1,0 +1,4 @@
+1.  Write a program that takes in user input and checks if it is a valid integer. 
+    If the inputis not a valid integer, raise a custom exception with a message "Invalid input: Not aninteger."
+
+2. Create a program that takes in user input and performs division, using try-exceptblocks to catch any ZeroDivisionError exceptions that may occur.
