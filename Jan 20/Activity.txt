@@ -1,0 +1,11 @@
+1.Python Functions:
+    Create a function that takes in a string and returns the number of vowels in it.
+
+2.Python Strings:
+    Write a program that takes in a string and returns the number of times aspecific word appears in it.
+
+3.Python Sequences:
+    Write a program that takes in a list of strings and returns a new list with all thestrings in uppercase.
+
+4.Python File handling:
+    Create a program that reads a text file and prints the number of lines in it.
