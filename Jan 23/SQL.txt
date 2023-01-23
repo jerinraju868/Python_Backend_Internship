@@ -1,0 +1,58 @@
+--------DATABASE CREATION--------
+create database beinex_SQL;
+
+--------USE DATABASE--------
+    use beinex_SQL;
+
+--------CREATE TABLE-------- 
+create table Employee_table(emp_id int primary key, First_Name varchar(20) not null, Last_Name varchar(20), age int, email_id varchar(50));
+
+--------INSERTING THE DATA--------
+insert into Employee_table values(101,'Aleena','Shajan',22,'aleenavshajan999@gmail.com');
+insert into Employee_table values(102,'Abhishek','Singh',27,'abhishekgupta@gmail.com');
+insert into Employee_table values(103,'Riya','Joseph',32,'riya@gmail.com');
+insert into Employee_table values(104,'Alvin','Thomas',28,'alvinvt94@beinex.com');
+insert into Employee_table values(105,'Jacob','Jose',31,'jacobtj@gmail.com');
+insert into Employee_table values(106,'Riya','Jose',31,'riyajose@gmail.com');
+
+--------RETREVING THE DATAS FROM THE TABLE--------
+select * from Employee_table;
+
+--------RETRIVING THE DATA FROM THE PARTICULA COLUMNS-------- 
+select emp_id,First_Name,age from Employee_table;
+
+--------WHERE CLAUSE--------
+select First_Name,age from Employee_table where age = 31;
+
+--------DISTINCT CLAUSE--------
+select distinct(age) from Employee_table;
+
+--------ORDER BY--------
+select * from Employee_table order by age desc;
+
+--------LIMIT--------
+select * from Employee_table limit 3;
+
+--------COUNTU--------
+select count(*) from Employee_table where First_Name = 'Riya';
+
+--------UPDATE--------
+update Employee_table set email_id = '@gmail.com' WHERE emp_id = 101;
+
+--------DELETE PARTICULAR DATA--------
+delete from Employee_table where emp_id = 101;
+
+--------LOGICAL OR--------
+select * from Employee_table where First_Name = 'Riya' or age =31;
+
+--------IN--------
+select * from Employee_table where age IN (32,27,31);
+
+--------BETWEEN--------
+select * from Employee_table where age BETWEEN 27 AND 31;
+
+--------NOT--------
+select * from Employee_table where NOT age < 31;
+
+--------NOT NULL--------
+select * from Employee_table where age is not null;
