@@ -1,0 +1,38 @@
+LIKE
+GROUP BY
+HAVING
+AS - Alias
+CASE WHEN
+MIN
+MAX
+SUM
+AVG
+LEFT JOIN
+RIGHT JOIN
+INNER JOIN
+DROP
+
+STRING FUNCTIONS
+Length
+Trim
+Concat
+Upper 
+Lower
+
+NUMERICAL FUNCTIONS
+Abs
+Round
+Ceil
+Floor
+Sign
+Mod
+
+DATE FUNCTIONS
+Current_date
+Extract
+
+MISCELLANEOUS FUNCTIONS
+Coalesce
+Greatest
+Least
+Isnull
