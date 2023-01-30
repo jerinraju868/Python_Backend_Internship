@@ -1,0 +1,27 @@
+Use sql_final_task Database
+
+Use shared two tables for scenario creation
+Import csv to mysql or create tables in the database seperately.
+You can join both tables properly and save it as a new table in the database.
+You can use the new table for scenario creation.
+
+Note : while creating table include your name with table name, otherwise it will
+throw an error of same table name exist since many of are working on same database.
+Also while sending the file to me include your name in the filename.
+
+
+1) Set suitable SQL contraints to column while creating tables.
+2) Write a command to display first 10 rows.
+3) Identify unique items?
+4) Identify any unit cost is negative?
+5) Identify minimum and maximum unit price happened for same item.
+6) Identify the Total sales happened in the year of 2021?
+7) Which item is sold maximum in the year 2021?
+8) Identify the region with highest and lowest sales.
+9) Identify the customer name having highest sales for the year 2022.
+10) Which item has highest and lowest unit cost?
+11) Identify items starts with letter 'P'.
+12) Filter the table having items Pen and Pencil.
+13) Filter the table with unit cost between 1 and 100.
+14) Identify the customer with more no of transaction(no of entries).
+15) Identify which item has maximum sales in each region.
